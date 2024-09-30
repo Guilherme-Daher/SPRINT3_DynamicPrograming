@@ -14,7 +14,7 @@
 - exibir_resultados(): Exibe o progresso e status dos treinamentos.
   
 ## Simulação de Uso:
-- Exemplo com 2 alunos e seus treinamentos, incluindo a atualização do progresso e finalização dos cursos.
+- Exemplo com 3 alunos e 2 treinamentos, incluindo a atualização do progresso e finalização dos cursos.
 
 ## Visualização Gráfica:
 - Utiliza a biblioteca matplotlib para gerar gráficos que mostram o progresso dos alunos.
